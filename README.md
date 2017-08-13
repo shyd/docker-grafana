@@ -1,1 +1,3 @@
-# docker-grafana
+# grafana
+
+- with `piechart-panel`
